@@ -1,0 +1,20 @@
+[
+  {
+    "type": "Update",
+    "title": "Nueva build del cliente disponible",
+    "date": "2024-06-01",
+    "link": "https://github.com/your-org/your-repo/releases/tag/v1.2.3"
+  },
+  {
+    "type": "Event",
+    "title": "Doble experiencia este fin de semana",
+    "date": "2024-06-07",
+    "link": "https://your-site.example.com/eventos/doble-experiencia"
+  },
+  {
+    "type": "Maintenance",
+    "title": "Mantenimiento programado del servidor",
+    "date": "2024-06-12",
+    "link": "https://status.example.com/maintenance/2024-06-12"
+  }
+]
