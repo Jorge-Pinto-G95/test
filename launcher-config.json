@@ -1,0 +1,12 @@
+{
+  "WEBSITE_URL": "https://otland.net/whats-new/",
+  "WIKI_URL": "https://otland.net/resources/",
+  "REGISTER_URL": "https://otland.net/members/",
+  "DISCORD_INVITE": "https://otland.net/threads/usa-8-60-marlboro-wars-december-6th-12-00-gmt-6.287100/#post-2793462",
+  "GITHUB_RELEASE_BASE_URL": "https://github.com/Jorge-Pinto-G95/test/releases/latest/download",
+  "NEWS_URL": "https://raw.githubusercontent.com/Jorge-Pinto-G95/test/refs/heads/main/news.json",
+  "CLIENTS": {
+    "64-bit OpenGL": "otclient_gl_x64.exe",
+    "64-bit DirectX": "otclient_dx_x64.exe"
+  }
+}
